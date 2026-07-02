@@ -1,6 +1,7 @@
 <div align="center">
 
 # 🏫 Campus Navigation System Using Graphs
+         **Version 1.0.0**
 
 ### *Navigate Smarter • Explore Faster • Discover Every Path*
 

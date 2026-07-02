@@ -297,17 +297,62 @@ All files are automatically loaded when the application starts.
 
 ---
 
-# 📸 Application Screenshots
 
-> *(Upload screenshots after running the application.)*
+> # 📸 Application Screenshots
 
-- 🖥 Main Menu
-- 🏢 Display Buildings
-- 🗺 Campus Map
-- 🌐 BFS Traversal
-- 🌳 DFS Traversal
-- 📍 Shortest Path
-- 🔍 Search Building
+## 🖥 Main Menu
+
+<p align="center">
+<img src="screenshots/menu.png" width="850">
+</p>
+
+---
+
+## 🏢 Display Buildings
+
+<p align="center">
+<img src="screenshots/buildings.png" width="850">
+</p>
+
+---
+
+## 🗺 Campus Map
+
+<p align="center">
+<img src="screenshots/campus_map.png" width="850">
+</p>
+
+---
+
+## 🌐 BFS Traversal
+
+<p align="center">
+<img src="screenshots/bfs.png" width="850">
+</p>
+
+---
+
+## 🌳 DFS Traversal
+
+<p align="center">
+<img src="screenshots/dfs.png" width="850">
+</p>
+
+---
+
+## 📍 Shortest Path
+
+<p align="center">
+<img src="screenshots/shortest_path.png" width="850">
+</p>
+
+---
+
+## 🔍 Search Building
+
+<p align="center">
+<img src="screenshots/search.png" width="850">
+</p>
 
 ---
 

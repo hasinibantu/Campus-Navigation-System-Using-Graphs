@@ -1,0 +1,14 @@
+1,Main Gate
+2,Administrative Block
+3,Block 1 (CSE & CSD )
+4,CSM Block 3
+5,Refreshment
+6,Boys Hostel
+7,Girls Hostel
+8,Block 4 (SAC)
+9,Canteen
+10,Block 5 (ECE & MBA)
+11,Library & Mini Auditorium
+12,Workshop Building
+13,Volleyball Court
+14,Main Auditorium

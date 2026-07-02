@@ -303,7 +303,7 @@ All files are automatically loaded when the application starts.
 ## 🖥 Main Menu
 
 <p align="center">
-<img src="screenshots/menu.png" width="850">
+<img src="menu.png" width="850">
 </p>
 
 ---
@@ -311,7 +311,7 @@ All files are automatically loaded when the application starts.
 ## 🏢 Display Buildings
 
 <p align="center">
-<img src="screenshots/buildings.png" width="850">
+<img src="buildings.png" width="850">
 </p>
 
 ---
@@ -319,7 +319,7 @@ All files are automatically loaded when the application starts.
 ## 🗺 Campus Map
 
 <p align="center">
-<img src="screenshots/campus_map.png" width="850">
+<img src="campus_map.png" width="850">
 </p>
 
 ---
@@ -327,7 +327,7 @@ All files are automatically loaded when the application starts.
 ## 🌐 BFS Traversal
 
 <p align="center">
-<img src="screenshots/bfs.png" width="850">
+<img src="bfs.png" width="850">
 </p>
 
 ---
@@ -335,7 +335,7 @@ All files are automatically loaded when the application starts.
 ## 🌳 DFS Traversal
 
 <p align="center">
-<img src="screenshots/dfs.png" width="850">
+<img src="dfs.png" width="850">
 </p>
 
 ---
@@ -343,7 +343,7 @@ All files are automatically loaded when the application starts.
 ## 📍 Shortest Path
 
 <p align="center">
-<img src="screenshots/shortest_path.png" width="850">
+<img src="shortest_path.png" width="850">
 </p>
 
 ---
@@ -351,7 +351,7 @@ All files are automatically loaded when the application starts.
 ## 🔍 Search Building
 
 <p align="center">
-<img src="screenshots/search.png" width="850">
+<img src="search.png" width="850">
 </p>
 
 ---

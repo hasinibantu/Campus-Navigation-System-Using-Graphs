@@ -5,6 +5,11 @@
 ### *Navigate Smarter • Explore Faster • Discover Every Path*
 
 ### A Modern C++ Console-Based Campus Navigation Solution
+![C++](https://img.shields.io/badge/C++-17-blue?style=for-the-badge&logo=cplusplus)
+![Graphs](https://img.shields.io/badge/Data%20Structure-Graphs-success?style=for-the-badge)
+![Algorithms](https://img.shields.io/badge/Algorithms-BFS%20%7C%20DFS%20%7C%20Dijkstra-orange?style=for-the-badge)
+![OOP](https://img.shields.io/badge/OOP-C++-red?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge)
 
 ---
 
@@ -34,6 +39,22 @@
 
 
 ---
+
+# 📖 Introduction
+
+Campus navigation plays an important role in helping students, faculty members, staff, and visitors move efficiently across a large educational institution. As campuses continue to expand with multiple academic blocks, laboratories, libraries, auditoriums, hostels, and administrative buildings, identifying the shortest and most convenient route becomes increasingly challenging.
+
+The **Campus Navigation System Using Graphs** is a console-based application developed in **C++** that demonstrates how graph data structures can be applied to solve real-world navigation problems. In this system, every building is represented as a **vertex**, while the roads connecting them are represented as **weighted edges**, creating a graph that models the campus layout.
+
+By implementing graph traversal techniques such as **Breadth First Search (BFS)** and **Depth First Search (DFS)**, along with **Dijkstra's Shortest Path Algorithm**, the application enables users to explore campus connectivity and determine the shortest route between any two buildings efficiently.
+
+Apart from providing navigation functionality, the project also serves as an educational demonstration of **Object-Oriented Programming (OOP)**, **Graph Data Structures**, **Standard Template Library (STL)**, and **File Handling** concepts in C++.
+
+# 🗺 Campus Layout
+
+<p align="center">
+<img src="" width="900">
+</p>
 
 # 📖 About the Project
 
@@ -165,6 +186,65 @@ Campus-Navigation-System-Using-Graphs/
     ├── Project_Report.pdf
     └── Presentation.pptx
 ```
+# 🚀 Getting Started
+
+## 📋 Prerequisites
+
+Before running the project, ensure you have:
+
+- C++17 compatible compiler (GCC, G++, MinGW, or MSYS2)
+- Visual Studio Code, Code::Blocks, or any C++ IDE
+- Git (Optional)
+
+---
+
+## 📥 Clone the Repository
+
+```bash
+git clone https://github.com/hasinibantu/Campus-Navigation-System-Using-Graphs.git
+```
+
+```bash
+cd Campus-Navigation-System-Using-Graphs
+```
+
+---
+
+## ⚙️ Compile the Project
+
+Compile all source files using:
+
+```bash
+g++ main.cpp Graph.cpp Building.cpp FileManager.cpp -o campus
+```
+
+---
+
+## ▶️ Run the Application
+
+### Windows
+
+```bash
+campus.exe
+```
+
+### Linux / macOS
+
+```bash
+./campus
+```
+
+---
+
+## 📂 Required Files
+
+Make sure these files are present in the project directory:
+
+- `buildings.txt`
+- `roads.txt`
+
+These files are automatically loaded when the application starts.
+
 
 ---
 

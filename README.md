@@ -54,7 +54,7 @@ Apart from providing navigation functionality, the project also serves as an edu
 # 🗺 Campus Layout
 
 <p align="center">
-<img src="CampusMap.png" width="900">
+<img src="images/CampusMap.png" width="900">
 </p>
 
 # 📖 About the Project
